@@ -1,2 +1,3 @@
-# ks2_national
-Scripts for processing Key Stage 2 data extracts from the DfE Compare School Performance service
+# Compare Schools Performance (Performance Tables) Tools
+
+Scripts for cleaning and merging multiple end of Key Stage datasets from the Compare Schools Performance (formerly Performance Tables) website.
